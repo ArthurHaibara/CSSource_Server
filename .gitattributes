@@ -1,9 +1,4 @@
 * text=auto
 
-Content/bin/** filter=lfs diff=lfs merge=lfs -text
+Content/Css/** filter=lfs diff=lfs merge=lfs -text
 
-Content/cstrike/** filter=lfs diff=lfs merge=lfs -text
-
-Content/hl2/** filter=lfs diff=lfs merge=lfs -text
-
-Content/steamapps/** filter=lfs diff=lfs merge=lfs -text
