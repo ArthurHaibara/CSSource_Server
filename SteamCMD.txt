@@ -1,0 +1,12 @@
+Utilize o comando: winget install --id=Valve.SteamCMD -e
+Após instalação do SteamCMD, utilize a seguinte lista de comandos
+
+SteamCMD 
+
+login anonymous
+
+force_install_dir C:\css-server //pasta no qual vai ficar o servidor
+
+app_update 232330 validate //instalação do servidor 
+
+Servidor instalado!
